@@ -1,0 +1,35 @@
+# 🎮 Secrets of the Lost Temple
+
+**Secrets of the Lost Temple** is a 3D action-adventure game developed using **Unity and C#**.
+
+Explore an ancient abandoned temple, battle dangerous enemies and a powerful boss, solve an ancient puzzle, obtain the Boss Key, unlock the final door, and discover the hidden treasure.
+
+## 🎯 Features
+
+- 🗡️ Third-person sword combat
+- 👹 Enemy AI and combat
+- 💀 Health, damage, hit and death systems
+- 👑 Boss battle
+- 🔑 Boss Key progression
+- 🧩 Ancient temple puzzle
+- 🚪 Interactive final door
+- 💎 Treasure room
+- 🏛️ Detailed ancient temple environment
+- 🎬 Character animations
+
+## 🛠️ Technologies
+
+- Unity
+- C#
+- Unity Animator
+- NavMesh
+- Unity Input System
+- 3D Game Assets
+
+## 🎮 Game Progression
+
+**Outside Temple → Temple Entrance → Level 1 → Level 2 → Boss Arena → Puzzle Area → Final Door → Treasure Room**
+
+## 👨‍💻 Project
+
+This project demonstrates 3D game development concepts including player movement, combat mechanics, enemy AI, animation systems, health systems, environmental design, puzzles, and interactive gameplay.
